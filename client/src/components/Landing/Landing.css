@@ -1,5 +1,5 @@
 .home-page {
-  background-image: url("https://fondosmil.com/fondo/14707.png");
+  background-image: url("https://assets.pokemon.com//assets/cms2-es-es/img/misc/virtual-backgrounds/sword-shield/dynamax-battle.png");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -17,8 +17,8 @@
 
 .home-button {
   border: none;
-  background-color: #007bff;
-  color: #fff;
+  background-color: #ffff00;
+  color: #090303;
   padding: 10px 20px;
   font-size: 14px;
   border-radius: 5px;

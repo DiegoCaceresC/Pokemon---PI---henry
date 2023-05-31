@@ -24,7 +24,7 @@ const {getTypesAll} = require("./src/controllers/Typescontroller")
 // Syncing all the models at once.
 conn.sync({ alter: true }).then(() => {
   server.listen(3001, () => {
-    console.log('%s listening at 3001'); 
+    console.log('%s listening at 3001 :('); 
     console.log(`Server raised in port: http://localhost:3001`);// eslint-disable-line no-console
     getTypesAll()
   });

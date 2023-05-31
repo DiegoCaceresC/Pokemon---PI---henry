@@ -5,9 +5,9 @@ import "./Landing.css"
 const Landing = () => {
     return (
         <div className="home-page">
-            <h1>Bienvenido al mundo Pokemon !</h1>
+            <h1>Welcome POKEMON trainer</h1>
             <Link to="/home">
-                <button className="home-button">Empezar Ahora</button>
+                <button className="home-button">START NOW</button>
             </Link>
         </div>
     );

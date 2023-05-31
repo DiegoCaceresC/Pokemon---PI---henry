@@ -37,15 +37,7 @@ export default function AboutMe() {
             <button className="btnX" onClick={() => setIsOpen2(false)}>❌</button>
             <br />
             <h2>Pokemones</h2>
-            <h4>Bienvenidos a la página de Pokemones, un sitio creado especialmente para el proyecto individual de Soy Henry, donde se extrae la informacion de la API de Pokemones (<a href="https://pokeapi.co/" target="_blank">https://pokeapi.co/</a> ). Aquí podrás encontrar todo lo relacionado con los criaturas más populares de la franquicia de Pokemon.Podrás encontrar información sobre los más populares Pokemones en el mundo Pokemon. Además, ¡podrás crear el pokemon que tu desees! .¡Explora este mundo y descubre todo lo que tienes que saber sobre tus Pokemones favoritos!</h4>
-            <h3>Creador de la pagina Baltasar Klix Jones</h3>
-            <a href="https://github.com/BaltaKlixJones" target="_blank">
-            <img style={{ margin: "20px" ,height:"80px", width:"80px", borderRadius:"50px"}} src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Logo"/>
-            </a>
-           
-            <a href="https://www.linkedin.com/in/baltasar-klix-jones-180b38256/" target="_blank">
-            <img style={{margin: "20px" ,height:"80px"}} src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="LinkedIn Logo"/>
-            </a>
+            <h4>Bienvenidos a la página de Pokemones, un sitio creado especialmente para el proyecto individual de Soy Henry, donde se extrae la informacion de la API de Pokemones . Aquí podrás encontrar todo lo relacionado con los criaturas más populares de la franquicia de Pokemon.Podrás encontrar información sobre los más populares Pokemones en el mundo Pokemon. Además, ¡podrás crear el pokemon que tu desees! .¡Explora este mundo y descubre todo lo que tienes que saber sobre tus Pokemones favoritos!</h4>
         </div>
         </div>
              }

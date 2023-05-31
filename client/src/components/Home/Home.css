@@ -1,5 +1,5 @@
 #home {
-  background-image: url("https://assets.pokemon.com/assets//cms-es-es/img/funzone/downloads/xy/Yveltal-Pokemon-X-and-Y_1920x1200.jpg");
+  background-image: url("https://images5.alphacoders.com/613/613933.jpg");
   width: 100%;
   height: 100%;
   background-position: center;
@@ -10,6 +10,10 @@
   
 }
 
+select option {
+  color:Red;
+  }
+  
 .textFilter{
   color: white;
   font-size: 30px;
@@ -98,8 +102,8 @@
   text-shadow: 2px 2px #ff0000; 
   background-image: linear-gradient(
     to right,
-    #064167,
-    #168faa
+    #4a6706,
+    #bef41c
   ); 
   background-size: cover; 
   padding: 30px; 
