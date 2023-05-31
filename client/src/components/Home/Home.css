@@ -1,0 +1,176 @@
+#home {
+  background-image: url("https://assets.pokemon.com/assets//cms-es-es/img/funzone/downloads/xy/Yveltal-Pokemon-X-and-Y_1920x1200.jpg");
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed ;
+  height: fit-content;;
+  
+}
+
+.textFilter{
+  color: white;
+  font-size: 30px;
+}
+
+.btnCrearhome {
+  position: absolute;
+  left: 20px;
+  top: 50px;
+  background-image: linear-gradient(
+    to right,
+    #e40d0d,
+    #f48405
+  ); 
+  color: #fff; 
+  font-size: 14px; 
+  padding: 6px 12px; 
+  border-radius: 25px; 
+  border: none; 
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.25); 
+  transition: all 0.2s ease; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  font-weight: 600; 
+  cursor: pointer; 
+  
+  transform: scale(1.05);
+}
+
+.containerRecarga {
+  position: absolute;
+  right: 30px; 
+
+  top: 50px;
+  height: 55px;
+}
+
+.reload-button {
+  
+  width: 110px; 
+  height: 65px;
+  color: #fff; 
+  font-size: 14px; 
+  padding: 6px 12px; 
+  border-radius: 25px; 
+  border: none; 
+  box-shadow: 0px 2px 7px rgba(24, 24, 24, 0.372); 
+  transition: all 0.2s ease; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  font-weight: 600; 
+  cursor: pointer; 
+  background-image: linear-gradient(
+    to right,
+    #e40d0d,
+    #f48405
+  ); 
+  transform: scale(1.05); 
+}
+
+.btnOrdenar {
+  position: center;
+  background-image: linear-gradient(
+    to right,
+    #f39107,
+    #db2d06
+  ); 
+  color: #fff;
+  font-size: 14px; 
+  padding: 6px 12px; 
+  border-radius: 25px; 
+  border: none; 
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.25); 
+  transition: all 0.2s ease; 
+  letter-spacing: 1px; 
+  font-weight: 600; 
+  cursor: pointer; 
+  margin: 20px;
+}
+
+.pokemon-title {
+  font-family: "Pokemon Font", sans-serif; 
+  font-size: 50px; 
+  text-align: center; 
+  color: rgb(196, 255, 3); 
+  text-shadow: 2px 2px #ff0000; 
+  background-image: linear-gradient(
+    to right,
+    #064167,
+    #168faa
+  ); 
+  background-size: cover; 
+  padding: 30px; 
+  border-radius: 20px; 
+  border: 3px solid rgb(14, 1, 1); 
+}
+
+.btnCreados {
+  position: center;
+  background-image: linear-gradient(
+    to right,
+    #f39107,
+    #db2d06
+  ); 
+  color: #fff; 
+  font-size: 14px; 
+  padding: 6px 12px; 
+  border-radius: 25px; 
+  border: none; 
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.25); 
+  transition: all 0.2s ease; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  font-weight: 600; 
+  cursor: pointer; 
+  margin: 20px;
+}
+
+.btnTipos {
+  position: center;
+  background-image: linear-gradient(
+    to right,
+    #f39107,
+    #db2d06
+  ); 
+  color: #fff; 
+  font-size: 14px; 
+  padding: 6px 12px; 
+  border-radius: 25px; 
+  border: none; 
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease; 
+  letter-spacing: 1px; 
+  text-transform: uppercase;
+  font-weight: 600; 
+  cursor: pointer; 
+  margin: 20px;
+}
+
+
+.btnAbout {
+   
+  letter-spacing: 1px;
+   width: 155px;
+   top: 135px;
+   right: 20px;
+   bottom: 0;
+   height: 35px;
+   color: white;
+   font-size: 12px;
+   text-transform: uppercase;
+   font-weight: 600;
+   background-image: linear-gradient(
+   to right,
+   #f39107,
+   #db2d06
+ ); 
+   position: absolute;
+   /* background-color: rgba(219, 210, 210, 0.866);  */
+   border: none; 
+   padding: 5px 15px;
+   border-radius: 50px; 
+   cursor: pointer; 
+ }
