@@ -74,7 +74,7 @@ export default function Home() {
       
         
       
-      <h3 className="textFilter">Filter By:</h3>
+      <h3 className="textFilter">Filtros:</h3>
       <div className="filtrar">
         <select className="btnOrdenar" onChange={(e) => handleOrderAZ(e)}>
           <option value={"All"}>ALFABET </option>

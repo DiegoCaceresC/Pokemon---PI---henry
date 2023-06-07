@@ -14,6 +14,7 @@
   color: rgb(252, 247, 247);
   padding: 10px 20px;
   font-size: 14px;
+  font-family: 'Josefin Sans', sans-serif;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -48,7 +49,7 @@ i {
   color: #000000;
   padding: 10px 20px;
   font-size: 14px;
-
+  font-family: 'Josefin Sans', sans-serif;
   cursor: pointer;
   margin: 0 10px;
 }
